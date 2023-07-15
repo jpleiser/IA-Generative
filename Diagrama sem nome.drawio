@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T19:39:40.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nEHY02xrd8vIJC9Y_Ay7" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-15T20:06:20.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_ooBvYRUldOn9hbcStpw" version="21.6.2" type="github" pages="4">
   <diagram name="Capa" id="z2RBaPFb8gWs7JQOrC-Q">
     <mxGraphModel dx="838" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,6 +115,105 @@
         </mxCell>
         <mxCell id="Wxnk4rSHVUfSvqyDARxN-20" value="Convolutional &lt;br&gt;Networks" style="ellipse;whiteSpace=wrap;html=1;fillColor=#331A00;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;perimeterSpacing=1;strokeWidth=1;rotation=0;gradientColor=#663300;fontSize=11;verticalAlign=bottom;" vertex="1" parent="Wxnk4rSHVUfSvqyDARxN-22">
           <mxGeometry x="239.27999999999997" y="334" width="83.72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="140" width="790" height="483.745167397366" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-2" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry width="790" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#001830;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-2">
+          <mxGeometry width="790" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-4" value="Inteligência Artificial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=27;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-2">
+          <mxGeometry x="248.00369863013702" y="27.002641509433943" width="284.93150684931504" height="26.613962264150945" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-5" value="" style="group;fontColor=#FF8000;fillColor=none;" vertex="1" connectable="0" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="120" y="57" width="570.9686476868327" height="390.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-6" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="63RgC0jp3OLo_Km_qUIh-5">
+          <mxGeometry x="-2.02135231316726" y="3.9593908629441623" width="572.99" height="386.04060913705587" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-6">
+          <mxGeometry width="555.8718861209965" height="386.04060913705587" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-8" value="Aprendizado de Máquina" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;fontSize=22;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-6">
+          <mxGeometry x="140.04999999999998" y="20.89" width="289.93" height="24.64" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-9" value="" style="group;opacity=30;" vertex="1" connectable="0" parent="63RgC0jp3OLo_Km_qUIh-6">
+          <mxGeometry x="155.51274021352316" y="45.532994923857856" width="384.18832740213526" height="267.2588832487309" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7F00FF;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;opacity=30;perimeterSpacing=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-9">
+          <mxGeometry width="252.6690391459075" height="138.57868020304568" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-11" value="Aprendizagem por Reforço" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-9">
+          <mxGeometry x="40.4270462633452" y="26.79695431472081" width="171.8149466192171" height="49.492385786802025" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-12" value="" style="group;strokeWidth=0;opacity=30;" vertex="1" connectable="0" parent="63RgC0jp3OLo_Km_qUIh-6">
+          <mxGeometry x="22.234875444839858" y="170" width="293.0960854092527" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7F00FF;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;opacity=30;perimeterSpacing=1;strokeWidth=2;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-12">
+          <mxGeometry width="252.6690391459075" height="149.99815486807307" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-14" value="Aprendizagem Supervisionada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-12">
+          <mxGeometry y="53.125" width="111.17437722419929" height="53.125" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-15" value="" style="group;strokeWidth=0;opacity=30;" vertex="1" connectable="0" parent="63RgC0jp3OLo_Km_qUIh-6">
+          <mxGeometry x="282.99" y="169.31" width="290" height="180.69" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7F00FF;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;opacity=30;perimeterSpacing=1;strokeWidth=2;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-15">
+          <mxGeometry width="248.35379310344828" height="159.43235294117648" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-17" value="Aprendizagem não supervisionada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-15">
+          <mxGeometry x="147.38" y="44.58" width="100.97" height="70.27" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#003366;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;opacity=50;perimeterSpacing=1;strokeWidth=1;rotation=60;gradientColor=#000099;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="270.9" y="156.41000000000003" width="210" height="305.63" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-19" value="Aprendizado Profundo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="254" y="384.01" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#009900;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=none;opacity=40;perimeterSpacing=0;strokeWidth=1;rotation=-60;gradientColor=#00FF80;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="316.23" y="163.95" width="210" height="305.15" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-21" value="Redes Neurais Profundas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="340" y="364.14" width="100" height="44.42" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-22" value="Redes &lt;br&gt;neurais" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="426.22949560145287" y="390.0022225176667" width="99.99899120290587" height="37.66068817989251" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-23" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#00331A;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;opacity=60;perimeterSpacing=1;strokeWidth=1;rotation=100;gradientColor=#00331A;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="341.28" y="156.01" width="129.61" height="293.32" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-24" value="IA generativa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=16;fontStyle=1" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="309" y="302.13" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-25" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#331A00;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;perimeterSpacing=1;strokeWidth=1;rotation=90;gradientColor=#663300;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="346.3" y="165.49" width="50.33" height="197.98" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-26" value="&lt;div&gt;baseado em transformador&lt;/div&gt;&lt;div&gt;Modelos de linguagem&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFF99;fontSize=11;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="281" y="240" width="139" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-27" value="ChatGPT" style="ellipse;whiteSpace=wrap;html=1;fillColor=#990000;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;perimeterSpacing=1;strokeWidth=1;rotation=0;gradientColor=#FF1808;fontStyle=1;fontSize=10;shadow=0;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="419" y="252.07" width="47.16" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-28" value="&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;Codificadores automáticos variacionais" style="ellipse;whiteSpace=wrap;html=1;fillColor=#331A00;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;perimeterSpacing=1;strokeWidth=1;rotation=0;gradientColor=#663300;fontSize=11;verticalAlign=bottom;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="404" y="282.14" width="133" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-29" value="Redes Adversárias Gerativas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#331A00;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;perimeterSpacing=1;strokeWidth=1;rotation=0;gradientColor=#663300;fontSize=11;verticalAlign=bottom;" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="401" y="325.14" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-30" value="Redes Convolucionais" style="ellipse;whiteSpace=wrap;html=1;fillColor=#331A00;labelBackgroundColor=none;fontColor=#FFFF99;labelBorderColor=none;strokeColor=#FFFF99;perimeterSpacing=1;strokeWidth=1;rotation=0;gradientColor=#663300;fontSize=10;verticalAlign=bottom;fontStyle=0" vertex="1" parent="63RgC0jp3OLo_Km_qUIh-1">
+          <mxGeometry x="235" y="340" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-31" value="VAEs-Variational Autoencoders" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-32" value="GANs-Generative Adversarial Networks" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63RgC0jp3OLo_Km_qUIh-33" value="&lt;div&gt;ChatGPT - Transformer-Based&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Language Models&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
